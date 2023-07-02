@@ -37,11 +37,18 @@ Following are the model parameter, train and test accuracies achieved in trainin
 - Train Accuracy - 98.60%
 - Test Accuracy - 93.07%
 
+
 Graph showing LR finder to determine the optimum learning rate to use in one cycle LR policy.
 ![LR finder Graph](https://github.com/sdev2030/ERA1_Session10/blob/main/images/lr_finder_graph.png)
 
+
 Graphs from training showing loss and accuracy for train and test datasets
 ![Training Graphs](https://github.com/sdev2030/ERA1_Session10/blob/main/images/training_graphs.png)
+
+
+Graph showing one cycle learning-rate(LR) changes during training 
+![One Cycle LR](https://github.com/sdev2030/ERA1_Session10/blob/main/images/oncecycle_lr.png)
+
 
 Ten misclassified images from the trained model.
 ![Misclassied images](https://github.com/sdev2030/ERA1_Session10/blob/main/images/wrong_classified.png)
