@@ -47,7 +47,7 @@ Graphs from training showing loss and accuracy for train and test datasets
 
 
 Graph showing one cycle learning-rate(LR) changes during training 
-![One Cycle LR](https://github.com/sdev2030/ERA1_Session10/blob/main/images/oncecycle_lr.png)
+![One Cycle LR](https://github.com/sdev2030/ERA1_Session10/blob/main/images/onecycle_lr.png)
 
 
 Ten misclassified images from the trained model.
